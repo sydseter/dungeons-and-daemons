@@ -40,7 +40,7 @@ jobs:
         with:
           username: sydseter.com
           server: linux72.unoeuro.com
-          ssh_private_key: ${{ secrets.private_key }}
+          ssh_private_key: ${{ secrets.PRIVATE_KEY }}
           local_path: ./build/*
           remote_path: ./dd
           sftp_only: true
