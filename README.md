@@ -1,18 +1,18 @@
-# create-svelte
+# OWASP® Dungeons & Daemons
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+OWASP® Dungeons & Daemons is a collection of LRP games for promoting awareness and knowlege about application security and security practices.
 
-## Creating a project
+Please visit: https://dd.sydseter.com
 
-If you're seeing this, you've probably already done this step. Congrats!
+## License
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+OWASP® Dungeons & Daemons (c) by Johan Sydseter
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+OWASP® Dungeons & Daemons is licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 
 ## Developing
 
@@ -27,10 +27,16 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of your app:
+To create a production version:
 
 ```bash
-npm run build
+npm install          # Install dependencies
+npm run build        # Build production version
+
+# Open site in default browser
+xdg-open build/index.html #Linux
+open build/index.html # Mac
+start build/index.html # Windows
 ```
 
 You can preview the production build with `npm run preview`.
