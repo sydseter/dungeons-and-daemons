@@ -17,6 +17,7 @@ This is the available data:
  - [Stories](/stories)
  - [Characters](/characters)
  - [Rules](/rules)
+ - [Images](/images)
 
 ## License
 

@@ -1,3 +1,5 @@
+<img src="/images/games/azure-cloud-castle.jpg" alt="Adventurers standing in front of the Azure Cloud Castle" style="width:100%" />
+
 # The Azure Cloud Castle
 
 The necromancer, [Sauron](https://medium.com/@Reveelium_AI/the-story-of-sauron-one-apt-to-rule-them-all-1f5c39674067), [the dark overloard](https://en.wikipedia.org/wiki/The_Dark_Overlord_(hacker_group)) of [Darkside](https://en.wikipedia.org/wiki/DarkSide_(hacker_group)) has kidnapped [Isa](https://en.wikipedia.org/wiki/Information_security_awareness) [Dora](https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en) the daughter of the dragon [Ghidra](https://ghidra-sre.org/), the three-headed dragon, and locked here away in a secure room in the highest tower of the [Azure Cloud Castle](https://romikoderbynew.com/2023/09/20/the-cloud-chronicles-caf-landing-zones-and-levels-unveiled/).

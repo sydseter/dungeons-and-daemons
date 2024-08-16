@@ -1,8 +1,9 @@
 <script>
     export let src;
+    export let alt;
 </script>
 
-<img src="{src}" alt="Adventurers standing in front of the Azure Cloud Castle">
+<img src="{src}" alt="{alt}">
 <style>
     img
     {

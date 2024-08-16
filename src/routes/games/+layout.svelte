@@ -23,16 +23,5 @@
         {
             width: 95%;
         }
-
-        h1
-        {
-            font-size: 4rem;
-            padding-top: 1rem;
-        }
-
-        h3
-        {
-            font-size: 1.5rem;
-        }
     }
 </style>
