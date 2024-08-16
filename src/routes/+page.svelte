@@ -1,8 +1,11 @@
 <script>
-    import FrontPage from "$lib/components/frontpage.svelte";
+    import Frontpage from "$lib/components/frontpage.svelte";
+import FrontPage from "$lib/components/frontpage.svelte";
 </script>
 <h1>OWASP® Dungeons & Daemons</h1>
-<p><a href="//sydseter.no">home</a></p>
+<p>
+    <Frontpage/>
+</p>
 
 <style>
     h1
