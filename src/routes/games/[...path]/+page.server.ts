@@ -22,7 +22,7 @@ function getDataFromPath(path: string) {
   let indexFile: string = path + "/index.md";
   if (fs.existsSync(indexFile)) content = fs.readFileSync(indexFile, "utf8");
 
-  if (content.length == 0 && fs.existsSync(path + ".md")) content = fs.readFileSync(path + ".md", "utf8");
+  if (content.length == 0 && fs.existsSync(path)) content = fs.readFileSync(path, "utf8");
   let folders: any;
   try {
     folders = FileSystemHelper.getDirectories(path);

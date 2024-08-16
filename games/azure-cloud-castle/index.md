@@ -9,4 +9,4 @@ In order to win, you will need to use [OWASP Cornucopia](https://owasp.org/www-p
 If in doubt, throw the dice to unlock the castle's secrets. 
 
 
-[-> Start the journey](/games/azure-cloud-castle/start)
+[-> Start the journey](/games/azure-cloud-castle/start.md)
