@@ -1,14 +1,28 @@
 # OWASP® Dungeons & Daemons
 
+<img src="static/images/games/azure-cloud-castle.jpg" />
+
 OWASP® Dungeons & Daemons is a collection of LRP games for promoting awareness and knowlege about application security and security practices.
 
+Although the game was inspired by OWASP Cornucopia, it does not necessarily use OWASP Cornucopia cards or game rules.
+
 Please visit: https://dd.sydseter.com
+
+## Get the raw data
+
+Please feel free to reuse the raw markdown data in your own projects.
+This is the available data:
+
+ - [Games](/games) 
+ - [Stories](/stories)
+ - [Characters](/characters)
+ - [Rules](/rules)
 
 ## License
 
 OWASP® Dungeons & Daemons (c) by Johan Sydseter
 
-OWASP® Dungeons & Daemons is licensed under a
+OWASP® Dungeons & Daemons games and game content is licensed under a
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this

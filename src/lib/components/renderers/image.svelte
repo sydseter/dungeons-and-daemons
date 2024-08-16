@@ -5,7 +5,7 @@
     export let title : string = ""
     export let text = ''
 
-    let url : string = '/data' + $page.url.pathname + '/' + href
+    let url : string = '/' + $page.url.pathname + '/' + href
 
     // Using /static allows autocomplete in VS code somehow, but breaks the image linking
     // So I just remove it before applying the href property of the img tag.

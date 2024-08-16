@@ -2,7 +2,7 @@ import { FileSystemHelper } from "$lib/filesystem/fileSystemHelper.js";
 import fs from "fs";
 
 export async function load({ params }) {
-  let filePath: string = "./data/games/" + params.path;
+  let filePath: string = "./games/" + params.path;
   let [files, folders, content] = getDataFromPath(filePath);
 
   return {

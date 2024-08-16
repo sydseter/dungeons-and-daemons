@@ -9,5 +9,5 @@ export async function load({params})
 
 function getGames() : string[]
 {
-    return FileSystemHelper.getDirectories("./data/games");
+    return FileSystemHelper.getDirectories("./games");
 }
