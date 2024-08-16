@@ -21,16 +21,15 @@ function getDataFromPath(path: string) {
   let content: string = "";
   let indexFile: string = path + "/index.md";
   if (fs.existsSync(indexFile)) content = fs.readFileSync(indexFile, "utf8");
-  else {
-    //console.log('🍎 ' + indexFile + ' doesnt exist')
-  }
-  var parentdir = path.split("/").slice(0, -1).join("/");
-  let disclaimerFile: string = parentdir + "/Disclaimer.md";
-  if (fs.existsSync(disclaimerFile)) {
-    content += "\r\n" +fs.readFileSync(disclaimerFile, "utf8");
-  }
 
-  let folders = FileSystemHelper.getDirectories(path);
+  if (content.length == 0 && fs.existsSync(path + ".md")) content = fs.readFileSync(path + ".md", "utf8");
+  let folders: any;
+  try {
+    folders = FileSystemHelper.getDirectories(path);
+  } catch (e) {
+    folders = [];
+  }
+  if (folders.length == 0) console.log("No folders found for path: " + path);
 
   for (let i = 0; i < folders.length; i++) {
     let folderName = folders[i];

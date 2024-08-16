@@ -8,7 +8,7 @@ export class FileSystemHelper {
     return fs
       .readdirSync(path, { withFileTypes: true })
       .filter((x) => x.isDirectory())
-      .map((dirent) => dirent.name);
+      .map((dirent) => dirent.name)  || [];
   }
 
   public static getFiles(path: string): string[] {
@@ -16,7 +16,7 @@ export class FileSystemHelper {
     return fs
       .readdirSync(path, { withFileTypes: true })
       .filter((x) => x.isFile())
-      .map((dirent) => dirent.name);
+      .map((dirent) => dirent.name) || [];
   }
 
   public static CharactersRouteMap(): any[] {
