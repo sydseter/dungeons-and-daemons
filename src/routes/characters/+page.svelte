@@ -1,31 +1,26 @@
-<div>
-    <h1>Characters</h1>
-    <p></p>
-</div>
-<style>
-    h1,p
-    {
-      font-family: var(--font-title);
-      color:white;
-    }
-    p
-    {
-      font-size: 1.5rem;
-      text-align: justify;
-    }
-    div
-    {
-        width : 50%;
-        margin:auto;
-        margin-top: 2rem;
-    }
+<script>
+  import { Text } from "$lib/utils/text";
 
-    @media (max-aspect-ratio: 1/1) 
-    {
-       div
-       {
-        margin:auto;
-        width : 90%;
-       } 
-    }
-  </style>
+  export let data;
+</script>
+
+{#each data.characters as character}
+  <p>├──<a href="/characters/{character}">{Text.Format(character)}</a></p>
+{/each}
+<style>
+  p
+  {
+      font-size: 1.5rem;
+      margin:0;
+  }
+
+  a
+  {
+      text-decoration: none;
+  }
+
+  a:hover
+  {
+      opacity:50%;
+  }
+</style>
