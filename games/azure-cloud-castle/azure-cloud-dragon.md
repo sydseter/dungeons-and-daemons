@@ -1,0 +1,5 @@
+Spider the wizard, recite the magic words, and as he does, green, blue and red lightning dances back and forth on the rock infront of you until a huge shape with wings takes form and reveals a blue dragon with gigantic wings and shining scales reflecting the sky around it.
+You climb the dragon and it takes of soaring towards the skies. On your new flying mount, you take care not to fly too close to the castle in case you get discovered by the evil necromancer. As you are circle the gorge, you gain new perspective and discover that hidden within the clouds and by an overhanging clif, there is a thin, almost invisible thread of land which connects the castle with the surrounding mountains. 
+Unfortunatly, its lies quite inaccessible at a lower mountain outcrop a good distnace down into the chasm. It looks too unstable and small to land with a dragon and it's to far down to jump. Climbing seems perilous and impossible, but at least, now you know where you must reach.
+
+What do you do?

@@ -24,7 +24,7 @@
         if(input == '')
             return 'Home'
         else
-            return Text.Format(input);
+            return Text.Format(input.replace('.md',''));
     }
 </script>
 

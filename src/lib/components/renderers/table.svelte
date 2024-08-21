@@ -7,8 +7,8 @@
 <style>
     table
     {
+        border: none;
         margin:auto;
-        border-radius: .25rem;
         margin-top: 2rem;
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
         border-collapse: collapse;

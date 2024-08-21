@@ -19,6 +19,35 @@ export class FileSystemHelper {
       .map((dirent) => dirent.name) || [];
   }
 
+  public static getDataFromPath(path: string) {
+    let resultFolders = [];
+    let resultFiles = [];
+  
+    let content: string = "";
+    let indexFile: string = path + "/index.md";
+    if (fs.existsSync(indexFile)) content = fs.readFileSync(indexFile, "utf8");
+  
+    if (content.length == 0 && fs.existsSync(path)) content = fs.readFileSync(path, "utf8");
+    let folders: any;
+    try {
+      folders = FileSystemHelper.getDirectories(path);
+    } catch (e) {
+      folders = [];
+    }
+    if (folders.length == 0) console.log("No folders found for path: " + path);
+  
+    for (let i = 0; i < folders.length; i++) {
+      let folderName = folders[i];
+      let folder = path + "/" + folderName;
+      let files = FileSystemHelper.getFiles(folder);
+      files.includes("index.md")
+        ? resultFolders.push(folderName)
+        : resultFiles.push(folderName);
+    }
+  
+    return [resultFiles, resultFolders, content];
+  }
+  
   public static CharactersRouteMap(): any[] {
     const basePath: string = "data/characters";
     const sectionRegex = /^(\d{2})-/;

@@ -3,11 +3,11 @@ import { FileSystemHelper } from '$lib/filesystem/fileSystemHelper.ts';
 export async function load({params})
 {
     return {
-        games : getGames()
+        games : getGameRules()
     }
 }
 
-function getGames() : string[]
+function getGameRules() : string[]
 {
-    return FileSystemHelper.getDirectories("./characters");
+    return FileSystemHelper.getDirectories("./rules");
 }

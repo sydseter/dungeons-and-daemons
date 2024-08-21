@@ -5,7 +5,7 @@
 </script>
 
 {#each data.games as game}
-  <p>├──<a href="/characters/{game}">{Text.Format(game)}</a></p>
+  <p>├──<a href="/rules/{game}">{Text.Format(game)}</a></p>
 {/each}
 <style>
   p

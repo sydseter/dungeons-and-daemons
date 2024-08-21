@@ -1,6 +1,5 @@
 <script>
     import Frontpage from "$lib/components/frontpage.svelte";
-import FrontPage from "$lib/components/frontpage.svelte";
 </script>
 <h1>OWASP® Dungeons & Daemons</h1>
 <p>

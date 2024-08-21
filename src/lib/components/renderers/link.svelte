@@ -26,5 +26,5 @@
     {
       color: var(--green);
       font-weight: bold;
-    }    
+    }
   </style>

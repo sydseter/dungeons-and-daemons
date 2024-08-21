@@ -9,7 +9,7 @@
     let menuOpen : boolean = false;
 
     let links : Link[] = [];
-    AddLink(links,"How to play","/how-to-play");
+    AddLink(links,"How to play","/rules");
     AddLink(links,"About","/about");
     AddLink(links,"Characters","/characters");
     AddLink(links,"Games","/games");
