@@ -3,7 +3,9 @@
 <div class="frontpage">
     <div class="text-container">
         <p>
-            OWASP® Dungeons & Daemons is a collection of LRP games for promoting awareness and knowlege about application security and security practices.
+            OWASP® Dungeons & Daemons is a collection of open source LRP games for promoting awareness and knowlege about application security and security practices.
+
+            The main purpose is away of providing the security community with exiting and fun security related LRP games that can be run at conferences, chapter meetings or other type of events.  
 
             Although the project was inspired by OWASP Cornucopia, it does not necessarily use OWASP Cornucopia cards or game rules. 
         </p>

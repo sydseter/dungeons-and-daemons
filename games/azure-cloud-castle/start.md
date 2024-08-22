@@ -13,5 +13,5 @@ The clouds, surrounding the castle, hides the deep unending gorge crowned by its
 
 ### Throw the dice to survey the surrounding area
 
-- [-> You roll low](/games/azure-cloud-castle/start-dice-low.md)
-- [-> You roll high](/games/azure-cloud-castle/start-dice-high.md)
+- [-> You roll low](/games/azure-cloud-castle/cesspit-rolling-low.md)
+- [-> You roll high](/games/azure-cloud-castle/cesspit-rolling-high.md)
