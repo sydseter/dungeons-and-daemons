@@ -9,6 +9,7 @@
     let menuOpen : boolean = false;
 
     let links : Link[] = [];
+    AddLink(links,"Cheat sheets","/cheatsheets");
     AddLink(links,"How to play","/rules");
     AddLink(links,"About","/about");
     AddLink(links,"Characters","/characters");
