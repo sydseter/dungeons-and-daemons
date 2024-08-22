@@ -8,7 +8,7 @@ Prerequisites:
  - A presentation of each of the characters, with their description, printed out with a desktop printer.
 
 
-Start the game by selecting a game master to lead the game if the game master hasn't been preselected. The game master will use the "cheat sheet" to keep track of where to lead the players.
+Start the game by selecting a game master to lead the game if the game master hasn't been preselected. The game master will use the ["cheat sheet"](/cheatsheets/azure-cloud-castle) to keep track of where to lead the players.
 
 The game master deals out all the OWASP Cornucopia cards. Once that is done let each player select a character associated with "The Azure Cloud Castle" game. The characters can be found by clicking on the characters tab and selecting "Azure Cloud Castle". 
 
@@ -21,6 +21,10 @@ The game master select "Azure Cloud Castle" from the games meny and start to rea
 After reading the plot, the players are presented with 1-4 choices.
 They can "cast a spell", "use a weapon", "throw the dice" or "use a card".
 All options are not always available. The players are not told which option is the best. The game master keep track on whether the choices the player make are valid or not. Free yourself from the story and improvise if the players come up with interesting solutions and choices. Just make sure to lead them back to the story so that you don't diverge too far from the storyline.
+
+## Rolling the dice
+
+For simplicity you can use any type of dice. Say you use a dice with six edges (1-6). When the player throw the dice, if they get 1-3, then that would be a "low roll" and if they get 4-6, then that would be a "high roll". If you play with a dice with more edges just divide the possible edges that the dice can land on into low and high in a similar fashion. The game master can decide what a "high roll" and what a "low roll" is meant to be. Just make sure that you clarify this before starting the game.
 
 ## Tip:
 
