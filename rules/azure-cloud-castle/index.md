@@ -21,3 +21,7 @@ The game master select "Azure Cloud Castle" from the games meny and start to rea
 After reading the plot, the players are presented with 1-4 choices.
 They can "cast a spell", "use a weapon", "throw the dice" or "use a card".
 All options are not always available. The players are not told which option is the best. The game master keep track on whether the choices the player make are valid or not. Free yourself from the story and improvise if the players come up with interesting solutions and choices. Just make sure to lead them back to the story so that you don't diverge too far from the storyline.
+
+## Tip:
+
+Encourge the players to click on the links in the text. They contain easter eggs related to cybersecurity.
