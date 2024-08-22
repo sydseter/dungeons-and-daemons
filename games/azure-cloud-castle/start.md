@@ -9,7 +9,7 @@ The clouds, surrounding the castle, hides the deep unending gorge crowned by its
 
 ### Cast a spell or use a weapon
 
-- [-> Choice 1](/games/azure-cloud-castle/azure-cloud-dragon.md "Summon the azure cloud dragon")
+- [-> Choice 1](/games/azure-cloud-castle/start-item-option-1.md)
 
 ### Throw the dice to survey the surrounding area
 

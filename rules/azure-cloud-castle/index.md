@@ -26,6 +26,6 @@ All options are not always available. The players are not told which option is t
 
 For simplicity you can use any type of dice. Say you use a dice with six edges (1-6). When the player throw the dice, if they get 1-3, then that would be a "low roll" and if they get 4-6, then that would be a "high roll". If you play with a dice with more edges just divide the possible edges that the dice can land on into low and high in a similar fashion. The game master can decide what a "high roll" and what a "low roll" is meant to be. Just make sure that you clarify this before starting the game.
 
-## Tip:
+## Easter eggs:
 
 Encourge the players to click on the links in the text. They contain easter eggs related to cybersecurity.

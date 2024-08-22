@@ -11,12 +11,12 @@ The gate was probably meant for a way of regulating the sewage from the castle.
 
 ### Cast a spell or use a weapon
 
-- [-> Choice 1](/games/azure-cloud-castle/cesspit-aegis.md "Using Aegis the shield")
+- [-> Choice 1](/games/azure-cloud-castle/cesspit-item-option-1.md)
 
 ### Use a card
 
-- [-> Card option 1](/games/azure-cloud-castle/cesspit-card-AT-K.md "ATK")
-- [-> Card option 2](/games/azure-cloud-castle/cesspit-card-AT-7.md "AT7")
-- [-> Card option 3](/games/azure-cloud-castle/cesspit-card-AT-5.md "AT5")
-- [-> Card option 4](/games/azure-cloud-castle/cesspit-card-AT-3.md "AT3")
-- [-> Card option 5](/games/azure-cloud-castle/cesspit-card-CO-3.md "CO3")
+- [-> Card option 1](/games/azure-cloud-castle/cesspit-card-option-1.md)
+- [-> Card option 2](/games/azure-cloud-castle/cesspit-card-option-2.md)
+- [-> Card option 3](/games/azure-cloud-castle/cesspit-card-option-3.md)
+- [-> Card option 4](/games/azure-cloud-castle/cesspit-card-option-4.md)
+- [-> Card option 5](/games/azure-cloud-castle/cesspit-card-option-5.md)
