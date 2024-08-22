@@ -14,6 +14,6 @@
     {
       padding: 0.25rem;
       text-align: left;
-      min-width: 10rem;
+      min-width: 8rem;
     }
   </style>

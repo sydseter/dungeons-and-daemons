@@ -1,9 +1,9 @@
 
-# Azure Cloud Wizard - Spider
+# Spider The Azure Cloud Wizard
 
-<img src="/images/characters/azure-cloud-castle/azure-cloud-wizard.md.jpg" alt="Adventurers standing in front of the Azure Cloud Castle" style="width:100%" />
+<img src="/images/characters/azure-cloud-castle/azure-cloud-wizard.md.jpg" alt="Spider The Azure Cloud Wizard" style="width:100%" />
 
-[Spider](https://en.wikipedia.org/wiki/Wizard_Spider) is a Azure Cloud Wizard that can [ZAP lightning](https://www.zaproxy.org/) and summon the [Azure Cloud Serpent](https://www.wowhead.com/spell=123992/azure-cloud-serpent) using [spellbook](https://github.com/htrgouvea/spellbook ). 
+[Spider the wizard](https://en.wikipedia.org/wiki/Wizard_Spider) is a Azure Cloud Wizard that can [ZAP lightning](https://www.zaproxy.org/) and summon the [Azure Cloud Serpent](https://www.wowhead.com/spell=123992/azure-cloud-serpent) using [spellbook](https://github.com/htrgouvea/spellbook ). 
 Besides giving you the ability to fly, the [Serpent](https://www.securityweek.com/serpent-backdoor-used-malware-attacks-french-entities/) 
 can give you new perspective as you have the ability to see the ground from above. Understanding it's abilities may unlock secrets not seen from the ground.
 As a wizard, you can in deed use magic to gain entry into secure places. Yes, it's magic because, according to Arthur C. Clark's third law, ["any sufficiently advanced technology is indistinguishable from magic"](https://en.wikipedia.org/wiki/Clarke%27s_three_laws).
