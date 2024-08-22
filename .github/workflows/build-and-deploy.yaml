@@ -38,9 +38,9 @@ jobs:
       - name: Deploy
         uses: wlixcc/SFTP-Deploy-Action@da88a4dbe95286266bbac3c0b2b8284048d20c8f
         with:
-          username: sydseter.com
-          server: linux72.unoeuro.com
+          username: dungeonsanddae.org
+          server: linux381.unoeuro.com
           ssh_private_key: ${{ secrets.PRIVATE_KEY }}
           local_path: ./build/*
-          remote_path: ./dd
+          remote_path: ./public_html
           sftp_only: true
