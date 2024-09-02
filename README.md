@@ -9,7 +9,7 @@ The main purpose is to provide a collection of fun and exciting security related
 Although the project was inspired by OWASP Cornucopia and Dungeons & Dragons, it does not necessarily use OWASP Cornucopia cards or game rules. 
 
 
-Please visit: https://dd.sydseter.com
+Please visit: [https://dungeonsanddaemons.org/](https://dungeonsanddaemons.org/)
 
 ## Get the raw data
 
