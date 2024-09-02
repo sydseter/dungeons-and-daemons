@@ -13,15 +13,15 @@
     <p>
         Although the project was inspired by OWASP Cornucopia and Dungeons & Dragons, it does not necessarily use OWASP Cornucopia cards or game rules. 
     </p>
-    <p>It is an <a href="https://github.com/sydseter/dungeaons-and-daemons/tree/master">open-source project on Github</a> that is part of <a href="https://owasp.org/">OWASP®</a>, The Open Worldwide Application Security Project.
-        <a href="https://owasp.org/www-project-dungeaons-and-daemons/">Visit the project page</a> for more information.
+    <p>It is an <a href="https://github.com/sydseter/dungeons-and-daemons/tree/master">open-source project on Github</a> that is part of <a href="https://owasp.org/">OWASP®</a>, The Open Worldwide Application Security Project.
+        <a href="https://owasp.org/www-project-dungeons-and-daemons/">Visit the project page</a> for more information.
     </p>
 
     <h2 id="license">License</h2>
     <p>
         Created by Johan Sydseter.<br>
-        OWASP Dungeaons & Daemons is open source and can be downloaded free of charge from the <a href="https://owasp.org/www-project-dungeaons-and-daemons/">OWASP Website</a>.<br>
-        OWASP Dungeaons & Daemons is free to use.<br>
+        OWASP Dungeons & Daemons is open source and can be downloaded free of charge from the <a href="https://owasp.org/www-project-dungeons-and-daemons/">OWASP Website</a>.<br>
+        OWASP Dungeons & Daemons is free to use.<br>
         It is licensed under the Creative Commons Attribution-ShareAlike 4.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.<br>
         OWASP® and the OWASP logo are trademarks of the OWASP® Foundation
     </p>
