@@ -4,8 +4,16 @@
 </div>
 <div>
     <h2 id="owasp-dungeons-and-daemons">OWASP Dungeons & Daemons</h2>
-    <p>OWASP Dungeons & Daemons is a collection of LRP games designed to increase awareness about security and threat-modeling. 
-        It is an <a href="https://github.com/sydseter/dungeaons-and-daemons/tree/master">open-source project on Github</a> that is part of <a href="https://owasp.org/">OWASP®</a>, The Open Worldwide Application Security Project.
+    <p>
+        OWASP® Dungeons & Daemons is a collection of open source games for promoting awareness and knowledge about application security and security practices.
+    </p>
+    <p>
+        The main purpose is to provide a collection of fun and exciting security related LRP games that can be run at conferences, chapter meetings or other type of events.  
+    </p>
+    <p>
+        Although the project was inspired by OWASP Cornucopia and Dungeons & Dragons, it does not necessarily use OWASP Cornucopia cards or game rules. 
+    </p>
+    <p>It is an <a href="https://github.com/sydseter/dungeaons-and-daemons/tree/master">open-source project on Github</a> that is part of <a href="https://owasp.org/">OWASP®</a>, The Open Worldwide Application Security Project.
         <a href="https://owasp.org/www-project-dungeaons-and-daemons/">Visit the project page</a> for more information.
     </p>
 
