@@ -1,4 +1,4 @@
-<img src="/images/games/azure-cloud-castle.jpg" alt="Adventurers standing in front of the Azure Cloud Castle" style="width:100%" />
+![Adventurers standing in front of the Azure Cloud Castle.[large]](/static/images/games/azure-cloud-castle.jpg)
 
 # The Azure Cloud Castle
 
@@ -12,3 +12,5 @@ If in doubt, throw the dice to unlock the castle's secrets.
 
 
 [-> Start the journey](/games/azure-cloud-castle/start.md)
+
+![Happy to recieve contributions.[status]](/static/images/help.svg)

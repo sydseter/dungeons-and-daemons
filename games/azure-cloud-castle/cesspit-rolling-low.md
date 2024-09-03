@@ -1,4 +1,4 @@
-<img src="/images/games/azure-cloud-castle/cesspit.md.jpg" alt="A cesspit with a iron gate on the other side" style="width:100%" />
+![A cesspit with a iron gate on the other side.[large]](/static/images/games/azure-cloud-castle/cesspit.md.jpg)
 
 # The cesspit
 

@@ -1,4 +1,4 @@
-<img src="/images/games/azure-cloud-castle/azure-cloud-dragon.md.jpg" alt="Adventurers riding the azure cloud dragon over the chasm." style="width:100%" />
+![Adventurers riding the azure cloud dragon over the chasm.[large]](/static/images/games/azure-cloud-castle/azure-cloud-dragon.md.jpg)
 
 # Summoning of the Azure Cloud Dragon
 

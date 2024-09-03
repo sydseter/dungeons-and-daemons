@@ -1,6 +1,8 @@
+![A cesspit with an open iron gate.[large]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
+
 # Using Aegis to force open the gate
 
-Athena flaunts here shield Aegis and summon forth a violent windstorm that slams into the gate and force it open with brute force.
+Athena flaunts here shield, Aegis, and summon forth a violent windstorm that slams into the gate and force it open with brute force.
 You jump into the stinking cesspit, swim across it, carefully entering the gate and into the lower part of the caste dungeon.
 
 ## Note:

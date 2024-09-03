@@ -1,4 +1,4 @@
-<img src="/images/games/azure-cloud-castle/start.md.jpg" alt="Adventurers standing in front of the Azure Cloud Castle" style="width:100%" />
+![Adventurers standing in front of the Azure Cloud Castle.[large]](/static/images/games/azure-cloud-castle.jpg)
 
 # Once upon a time
 

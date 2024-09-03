@@ -1,4 +1,4 @@
-<img src="/images/games/azure-cloud-castle/cesspit-gate-open.jpg" alt="A cesspit with a iron gate with lock on the other side" style="width:100%" />
+![A cesspit with an open iron gate.[large]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
 
 # Cesspit - Authentication - King
 

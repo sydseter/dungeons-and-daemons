@@ -20,7 +20,7 @@ The Dungeon & Daemons project is an open source effort and welcome all kinds of 
 
 - A good idea would be to go to https://dungeonsanddaemons.org/games when you click on a game, each game will be labeled: ready, w.i.p, r.i.p or help wanted. These labels tells you how you may proceede contributing to the game.
 
-Some of the games that got created where storytelling/storybook games. These games were created using yaml and you may simply change the yaml under [characters](characters), [games](games), [rules](rules), [images](images). Keep in mind that when adding images to [images](images), you should also add images to [static/images](images/images). [images](images) is to be able to easily maintain and see how the game is like using yaml and [static/images](images/images) is to publish the images on the server. With time, we will make sure you only need to add images to [images](images). If you want to help with that, you are more then welcome.
+Some of the games that got created where storytelling/storybook games. These games were created using yaml and you may simply change the yaml under [characters](characters), [games](games), [rules](rules), [static/images](images). Keep in mind that when adding content please add it into the game's respective folder under the main folders above. This way, your game will be made available correctly online.
 
 <img src="static/images/help.svg" width="100rem" />
 
