@@ -5,7 +5,7 @@
     let target : string = "_blank";
 
 
-    if(href.includes('www.jefmeijvis.com'))
+    if(href.includes('www.dungeonsanddaemons.org'))
       target = '_self';
 
     if(href.startsWith('/'))
