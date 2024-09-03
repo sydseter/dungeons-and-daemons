@@ -15,6 +15,12 @@
         overflow: hidden;
     }
 
+    table
+    {
+        border: none;
+        font-size: 1.2rem;
+    }
+
     @media (max-aspect-ratio: 1/1) 
     {
         table

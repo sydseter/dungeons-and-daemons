@@ -31,10 +31,10 @@
       title = text;
 
 </script>
-
+<div class="{clazz}-div">
 <img loading="lazy" class="{clazz}" src={url} {title} alt={text}>
 <p class="alt-text"><i>Image: {text}</i></p>
-
+</div>
 <style>
       .alt-text
       {
@@ -46,6 +46,7 @@
 
       img
       {
+          width: 100%;
           border-radius: .5rem;
           margin:auto;
           margin-top: 2rem;
@@ -61,12 +62,23 @@
 
       .small-img 
       {
-          width: 25%;
+          margin-top: 0rem;
       }
 
       .medium-img 
       {
+          margin-top: 0rem;
+      }
+
+      .small-img-div
+      {
+          width: 30%;
+      }
+
+      .medium-img-div 
+      {
           width: 50%;
+          float: right;
       }
 
       .large-img 
