@@ -48,13 +48,13 @@
                 OWASP Dungeons & Daemons is originally created by Johan Sydseter.
                 It is open source and can be downloaded free of charge from the <a target='_blank' href="https://owasp.org/www-project-cornucopia/">OWASP website</a>.
                 It is is free to use.
-                It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, 
+                It is licensed under the Creative Commons Attribution-ShareAlike 4.0 International, so you can copy, 
                 distribute and transmit the work, and you can adapt it, and use it commercially, 
                 but all provided that you attribute the work and if you alter, transform, 
                 or build upon this work, 
                 you may distribute the resulting work only under the same or similar license to this one.
                 OWASP does not endorse or recommend commercial products or services.
-                OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license and is © 2012-2016 OWASP Foundation.
+                OWASP Dungeons & Daemons is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license and is © 2012-2016 OWASP Foundation.
             </p>
         </div>
     </div>

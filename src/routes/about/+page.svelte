@@ -17,6 +17,24 @@
         <a href="https://owasp.org/www-project-dungeaons-and-daemons/">Visit the project page</a> for more information.
     </p>
 
+    <h2 id="owasp-dungeons-and-daemons">How to contribute</h2>
+    <p>
+        Why aren't all games in the game collection are finished?
+    </p>
+    <p>
+        As Dungeons & Daemons is an open-source project, not all games are equally well maintained, this means that we need your help to complete them!
+    </p>
+    <p>
+        Luckily, contributing is easy, but you should keep in mind that no all games may not need contribution. We use labeling on the website to indicate
+        whether a game is playable, ready, work-in-progress, in need of maintainence or simply dead (meeaning that we don't support it anymore).
+    </p>
+    <p>
+        This is to help you in selecting a game to play and to help us to get the necessary help where it is needed. The following are the possible states a game can be in and what the different status codes mean.
+        We use labels on the main pages for each game communicate these statuses. These are the states and labels we use:
+    </p>
+    <ul>
+        <li></li>
+    </ul>
     <h2 id="license">License</h2>
     <p>
         Created by Johan Sydseter.<br>
