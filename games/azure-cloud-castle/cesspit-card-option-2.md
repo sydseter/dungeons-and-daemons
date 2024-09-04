@@ -1,6 +1,6 @@
-![A cesspit with an open iron gate.[large]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
-
 # Cesspit - Authentication - 7
+
+![A cesspit with an open iron gate.[medium]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
 
 You jump into the cesspit holding your nose as you swim towards the gate.
 As you reach the gate you try every possible combination, using 3 digits, until the lock says click. The gate opens and you enter into the lower part of the castle dungeon.

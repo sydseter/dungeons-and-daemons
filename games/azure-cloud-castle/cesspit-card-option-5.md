@@ -1,6 +1,6 @@
-![A cesspit with an open iron gate.[large]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
-
 # Cesspit - Cornucopia - 3
+
+![A cesspit with an open iron gate.[medium]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
 
 You jump into the cesspit holding your nose as you swim towards the gate.
 As you reach the gate you notice that the numbers on the gate lock are loose and rusted. As you remove the numbers holes appear which makes it possible for you to peek into the locking mechanism and change it's geers and springs. You turn the huge dial while you rearange the gears until you hear a click. The gate opens and you enter into the lower part of the castle dungeon.

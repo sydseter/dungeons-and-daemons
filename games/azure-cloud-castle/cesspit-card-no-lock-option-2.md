@@ -1,6 +1,6 @@
-![A cesspit with an open iron gate.[large]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
-
 # Cesspit - Authentication - Jack or Queen
+
+![A cesspit with an open iron gate.[medium]](/static/images/games/azure-cloud-castle/cesspit-gate-open.jpg)
 
 You jump into the cesspit holding your nose as you swim towards the gate.
 As you reach the gate you notice that the gate has no lock. It was probably mistakingly assumed that no lock would be necessary as the feeces and excrements in the cesspit would deter anyone from jumping in and swimming across.

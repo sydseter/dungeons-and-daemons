@@ -1,6 +1,6 @@
-![A cesspit with a iron gate with lock on the other side.[large]](/static/images/games/azure-cloud-castle/cesspit-gate-with-lock.jpg)
-
 # The cesspit
+
+![A cesspit with a iron gate with lock on the other side.[medium]](/static/images/games/azure-cloud-castle/cesspit-gate-with-lock.jpg)
 
 You decide to survey the surrounding area by following the ridge of the gorge.
 After traveling for several hours you find yourself on the backside of the castle where you encounter the entrence of a secret cave.
