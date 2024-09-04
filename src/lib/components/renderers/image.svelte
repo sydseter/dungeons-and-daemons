@@ -47,11 +47,13 @@
       img
       {
           width: 100%;
+          height: 100%;
           border-radius: .5rem;
           margin:auto;
           margin-top: 2rem;
-          margin-bottom: 1rem;;
+          margin-bottom: 1rem;
           display: block;
+          
       }
 
       .status-img 
