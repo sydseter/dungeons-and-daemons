@@ -54,7 +54,7 @@
                 or build upon this work, 
                 you may distribute the resulting work only under the same or similar license to this one.
                 OWASP does not endorse or recommend commercial products or services.
-                OWASP Dungeons & Daemons is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license and is © 2012-2016 OWASP Foundation.
+                OWASP Dungeons & Daemons is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license and is © 2024 OWASP Foundation.
             </p>
         </div>
     </div>
