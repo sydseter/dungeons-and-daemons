@@ -2,7 +2,7 @@
     import Breadcrumbs from "$lib/components/breadcrumbs.svelte";
 </script>
 
-<div>
+<div class="slot-div">
     <Breadcrumbs></Breadcrumbs>
     <slot></slot>
 </div>
@@ -23,5 +23,9 @@
         {
             width: 95%;
         }
+    }
+
+    .slot-div {
+        overflow-y: hidden;
     }
 </style>
