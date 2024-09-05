@@ -15,5 +15,5 @@ The gate was probably meant for a way of regulating the sewage from the castle.
 
 ### Use a card
 
-- [-> Card option 1](/games/azure-cloud-castle/cesspit-card-AT-J-Q.md "ATJ or ATQ")
-- [-> Card option 2](/games/azure-cloud-castle/cesspit-card-AT-K.md "ATK")
+- [-> Card option 1](/games/azure-cloud-castle/cesspit-card-no-lock-option-2.md "ATJ or ATQ")
+- [-> Card option 2](/games/azure-cloud-castle/cesspit-card-option-1.md "ATK")
