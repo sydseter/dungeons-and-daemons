@@ -9,7 +9,7 @@
             The main purpose is to provide a collection of fun and exciting security related LRP games that can be run at conferences, chapter meetings or other type of events.  
         </p>
         <p>
-            Although the project was inspired by OWASP Cornucopia and Dungeons & Dragons, it does not necessarily use OWASP Cornucopia cards or game rules. 
+            Although the project was inspired by OWASP Cornucopia and Dungeons & Dragons, it does not necessarily use OWASP Cornucopia cards or game rules nor do the games necessarily follow the rules used in Dungeon & Dragon. Some of the the games may also be under development. If so, that is indicated on each game's indivual game page. See the rules for each game to get to know how to play the game in question.
         </p>
     </div>
     <div class="img-container">
