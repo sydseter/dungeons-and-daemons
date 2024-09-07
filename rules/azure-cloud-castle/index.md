@@ -7,6 +7,7 @@ Prerequisites:
  - A computer
  - A list of qr codes that takes the player to the page presenting the characters of the game.
 
+Disclaimer: The game won't necessarily follow Dungeons & Dragons game rules, but we will work towards incorporating more of the same game dynamics and rules into the game moving forward. Currently, the game and rules are to be considered in development and may drasticly change as the work progresses.
 
 Start the game by selecting a game master to lead the game if the game master hasn't been preselected. The game master will use the ["cheat sheet"](/cheatsheets/azure-cloud-castle) to keep track of where to lead the players.
 
