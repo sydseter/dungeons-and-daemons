@@ -1,3 +1,8 @@
+# Project moved
+
+The project is now a OWASP project. The code has been moved here: https://github.com/OWASP/www-project-dungeons-and-daemons 
+Project website is available from: https://owasp.org/www-project-dungeons-and-daemons/ 
+
 # OWASP® Dungeons & Daemons
 
 <img src="static/images/games/azure-cloud-castle.jpg" />
